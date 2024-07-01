@@ -1,0 +1,56 @@
+commit c69a3bca0cbec2f796540bc9acb9892f03471a59
+Author: sheilinhagr <shegomesrezende@gmail.com>
+Date:   Mon Jul 1 10:24:47 2024 -0300
+
+    mudanças no titulo e gitignore
+
+commit a6e929086b0874e37481a7c90b794a92477ae5b5
+Merge: 9b51a07 e4c4642
+Author: sheilinhagr <shegomesrezende@gmail.com>
+Date:   Mon Jul 1 10:19:21 2024 -0300
+
+    Merge branch 'main' of github.com:sheilinhagr/testesAlura
+
+commit e4c4642fd291cd9cf7115b01427f6ff9ec763b91
+Author: sheilinhagr <shegomesrezende@gmail.com>
+Date:   Mon Jul 1 10:11:12 2024 -0300
+
+    Create README.md
+
+commit 9b51a0710de3302f5775ba4a32df8debe456b367
+Author: sheilinhagr <shegomesrezende@gmail.com>
+Date:   Mon Jul 1 09:21:28 2024 -0300
+
+    Nova Mensagem
+
+commit 381745089697879537885d792a29f25350cfac3e
+Author: sheilinhagr <shegomesrezende@gmail.com>
+Date:   Mon Jul 1 09:21:28 2024 -0300
+
+    adicionando texto novo
+
+commit 10d13b06bdb8cbf21bbb841c8ec80ebd76e355f8
+Author: sheilinhagr <shegomesrezende@gmail.com>
+Date:   Wed Jun 26 09:46:24 2024 -0300
+
+    Revert "Mudando os chutes"
+    
+    This reverts commit b5192ce43d1f4ad033021d53aecc730068fcfb5e.
+
+commit b5192ce43d1f4ad033021d53aecc730068fcfb5e
+Author: sheilinhagr <shegomesrezende@gmail.com>
+Date:   Wed Jun 26 09:04:00 2024 -0300
+
+    Mudando os chutes
+
+commit 77242bf05b916fde723fef88b1f445de6419dd1a
+Author: sheilinhagr <shegomesrezende@gmail.com>
+Date:   Tue Jun 25 17:55:28 2024 -0300
+
+    alterando para 100
+
+commit 18383dc1a2dce7937f504703fcec9a8358e09e15
+Author: sheilinhagr <shegomesrezende@gmail.com>
+Date:   Tue Jun 25 10:20:46 2024 -0300
+
+    projeto alura
